@@ -1,0 +1,5 @@
+pyTelegramBotAPI 
+python-dotenv
+utf-cleaner 
+pycoingecko 
+web3
