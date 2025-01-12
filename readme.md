@@ -50,6 +50,7 @@ This Telegram bot allows you to sell Outline VPN keys and accept payments in var
     ```bash
     git clone <repository_url>
     cd <repository_directory>
+    chmod +x start.sh; ./start.sh
     ```
 
 2.  **Environment Variables:**
