@@ -16,7 +16,7 @@ fi
 
 echo "check requirements..."
 
-pip install -r requirements.txt
+pip install --root-user-action=ignore -r requirements.txt 
 
 echo "continue."
 
