@@ -5,7 +5,7 @@ import subprocess
 import time
 import asyncio
 from pycoingecko import CoinGeckoAPI
-from utf-cleaner import UTFStringCleaner
+from utf_cleaner import UTFStringCleaner
 from web3 import Web3
 
 # --- Configuration ---
